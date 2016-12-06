@@ -177,7 +177,7 @@ footer h6{
 	height: 90%;
 	left: 0;
 	position: absolute;
-	top: 0;
+	top: 50px;
 	width: 100%;
 	z-index:1;
 	-webkit-animation: snow 10s linear infinite;
